@@ -560,8 +560,6 @@ PRODUCT_PACKAGES += \
     libcvp2_1 \
     libcvp_common \
     libdiag \
-    libdisplayconfig.qti \
-    libdrmfs \
     libdsi_netctrl \
     libdsutils \
     libfastcvdsp_stub \
@@ -596,7 +594,6 @@ PRODUCT_PACKAGES += \
     libmmosal_vendor \
     libmulawdec \
     libnetmgr \
-    liboemcrypto \
     libperfconfig \
     libperfgluelayer \
     libperfioctl \
@@ -878,6 +875,7 @@ PRODUCT_PACKAGES += \
     libdisplayskuutils \
     libdpmqmihal \
     libdpps \
+    libdrmfs \
     libdrmtime \
     libesepmconfig \
     libgarden \
